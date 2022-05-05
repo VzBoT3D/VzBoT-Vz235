@@ -1,2 +1,1 @@
-# Enclosure parts to print
 
