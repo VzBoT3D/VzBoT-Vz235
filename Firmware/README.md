@@ -1,7 +1,7 @@
 ## an example of a tested .cfg file for klipper is included here
 ### be sure to edit this to suit your specific board, setup and wiring!
 
-### it is advised to use the following TMC settings in klipper when running an AWD setup:
+### it is advised to use the following TMC settings in klipper when running an AWD setup, not that these settings have only been tested on tmc5160 as of now:
 
 spi_speed: 1000000
 
