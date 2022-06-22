@@ -2,10 +2,11 @@
 
 Explanation: 
 - 1st line: Steps << number of times it will do the stop and go, 100 times in the below case>>
-- 2nd line: << The speed/velocity at which you want to test. 1000mms here>>
-- 3rd line:  << the safety distance in mm that the print head will not go from X max and Y max defined on your printer config>>	
-- 4th line: << the starting acceleration value for the test. 10K here>>	
+- 2nd line: Velocity/Speed << The speed/velocity at which you want to test. 1000mms here>>
+- 3rd line: safety distance << the safety distance in mm that the print head will not go from X max and Y max defined on your printer config>>	
+- 4th line: Starting Accel << the starting acceleration value for the test. 10K here>>	
 
+## Credits to DoubleT on Discord for his help on these macros
 
  [gcode_macro ACCELL_TEST_X]
  
