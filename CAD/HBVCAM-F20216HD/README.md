@@ -1,7 +1,9 @@
 HBVCAM-F20216HD 2MP 
 CAM [here](https://amzn.to/3bjp0RK) 
 
-The Camera has a Field of View (FOV)：136°  ultra wide angle, 
+The Camera has a Field of View (FOV)：136°  ultra wide angle
+
+Mainsail config: camera_usb_options="-r 1920x1080 -f 3 -q 100"
 
 
 
