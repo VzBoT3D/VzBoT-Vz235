@@ -14,20 +14,37 @@ This customization is realized in two steps.
 
 
 ## Custome Bed assembly
-Vz235SlicerBedModel.stl
+
+There are two different versions available. You can choose the full bed assembly with all the bells and whistles or you choose the light weight option which os only the bed without the frame or attached parts. The full bed assembly does take a bit longer to load, when you open the slicer. 
+
+This are your two options, choose one from the bed assembly folder:
+
+* Custom_bed_assembly_vz235.stl 
+* Vz235_bed.stl 
 
 
 
 
 ## Build plate(texture)
+
+For the texture of the Build plate there are mulitple options. There is the Logo, the Logo but 40% Transparent and the outline only option. The Logo can block the view from under the bed to the slice part, to reduce that problem we made an option that lets you see through the Logo. Also if that is still blocking to much of the view, we made a version with only the outlines of the logo.
+
+This are the three options to choose from the Texture folder
+
 * VzBot_PS_bed_235.svg
+* VzBot_PS_bed_235_outline.svg
+* VzBot_PS_bed_235_transparent.svg
+
+Here is a little comparison between the textures, so you can make the right choice:
+
+![Pic 2](https://github.com/Runningtarrens/VzBoT-Vz330/blob/master/Slicer/Theme/PrusaSlicer-SuperSlicer/Gallery/Vz330_bed_logo_compare.JPG)
 
 
 
 
 ## How to
 
-Open your Slicer( Prusa or Super) and click on Printer settings (Screen shots are for 330, but same applies to 235)
+Open your Slicer( Prusa or Super) and click on Printer settings
 
 ![Pic 3](https://github.com/Runningtarrens/VzBoT-Vz330/blob/master/Slicer/Theme/PrusaSlicer-SuperSlicer/Gallery/howto1.JPG)
 
