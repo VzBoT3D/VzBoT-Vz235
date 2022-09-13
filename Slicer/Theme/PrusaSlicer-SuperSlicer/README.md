@@ -2,7 +2,7 @@
 
 This lets you add your Vzbot235 heat bed to your Slicer, to have a customized look and feel to it.
 
-![Pic 1](https://github.com/Runningtarrens/VzBoT-Vz330/blob/master/Slicer/Theme/PrusaSlicer-SuperSlicer/Gallery/Vz330_bed_showcase.JPG)
+<img width="1600" alt="image" src="https://user-images.githubusercontent.com/37383368/190009647-8c54d88e-1afb-44a9-9912-56031e322a41.png">
 
 
 
@@ -44,6 +44,7 @@ Here is a little comparison between the textures, so you can make the right choi
 
 ## How to
 
+(please note screen shots are for 330 model, but same steps for 235)
 Open your Slicer( Prusa or Super) and click on Printer settings
 
 ![Pic 3](https://github.com/Runningtarrens/VzBoT-Vz330/blob/master/Slicer/Theme/PrusaSlicer-SuperSlicer/Gallery/howto1.JPG)
