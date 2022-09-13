@@ -27,7 +27,7 @@ Vz235SlicerBedModel.stl
 
 ## How to
 
-Open your Slicer( Prusa or Super) and click on Printer settings
+Open your Slicer( Prusa or Super) and click on Printer settings (Screen shots are for 330, but same applies to 235)
 
 ![Pic 3](https://github.com/Runningtarrens/VzBoT-Vz330/blob/master/Slicer/Theme/PrusaSlicer-SuperSlicer/Gallery/howto1.JPG)
 
