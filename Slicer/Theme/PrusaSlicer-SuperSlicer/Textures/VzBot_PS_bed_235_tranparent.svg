@@ -6,6 +6,10 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="VzBot_PS_bed_235_tranparent.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg54"
    version="1.1"
    viewBox="0 0 235 235"
@@ -20,6 +24,26 @@
        y="315.63032"
        x="63.596825" />
   </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-height="1377"
+     inkscape:window-width="2560"
+     inkscape:snap-global="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="578.35871"
+     inkscape:cx="657.06507"
+     inkscape:zoom="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata51">
     <rdf:RDF>
@@ -33,7 +57,9 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Ebene 1">
     <g
        id="g173">
       <rect
@@ -152,7 +178,7 @@
     <g
        id="VzBot"
        transform="matrix(0.17591973,0,0,0.16935859,33.101609,79.989121)"
-       style="opacity:1;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+       style="opacity:0.4;fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
       <path
          d="M 0,0 362.70878,339.70883 726.6548,0 C 645.93631,0 600.65015,0 590.79633,0 576.01558,0 568.30469,3.5533744 558.22736,12.489477 548.15002,21.425579 408.51073,151.53883 395.64031,164.10099 382.76989,176.66315 355.53897,176.66315 343.29628,165.11568 331.0536,153.56821 182.06039,14.869707 176.70385,10.281695 171.34731,5.6936828 162.99425,0 150.16592,0 141.6137,0 91.55839,0 0,0 Z"
          id="Path"
@@ -168,7 +194,7 @@
       <polygon
          id="Path-4"
          fill="#f9f9f9"
-         points="439.8564,410.48335 879.79184,0.33479496 726.6548,0 362.70878,339.70883 " />
+         points="879.79184,0.33479496 726.6548,0 362.70878,339.70883 439.8564,410.48335 " />
     </g>
     <g
        transform="translate(-0.03536464,-95.197757)"
