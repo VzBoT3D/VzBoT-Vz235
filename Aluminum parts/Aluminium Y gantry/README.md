@@ -12,5 +12,4 @@ Notes:
 
 -If you use a 20mm profile OR the F3D aluminum tube, you will need to print 4 spacers of 0.5mm and place between the tube and Y aluminum gantry. One on top of the tube, one at the bottom of the tube, sandwiched between Y aluminum gantry and the aluminum tube
 
-![image](https://user-images.githubusercontent.com/93674339/195415946-fb9658c0-8d48-45ed-8b9a-9f670e1eff2e.png)
-
+![image](https://user-images.githubusercontent.com/93674339/195416890-a7470ae8-e150-4cde-9300-b42ae205535c.png)
