@@ -1,4 +1,4 @@
-RSCS V2 Beta
+# RSCS V2 Beta
 
 This is a work in progress, please report any issues
 
