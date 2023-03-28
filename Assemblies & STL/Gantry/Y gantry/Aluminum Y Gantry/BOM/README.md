@@ -6,7 +6,7 @@
 
 ## When torquing the the idlers, make sure you do not apply to much axial load on the idler bearings. Tight manually with hands then add 1/4. Make sure idlers spin freely. This will avoid rattling sound, specially if you use graphite or metal spacers sold by mellow Kit)
 
-(The below animation is from Vz330. Same instructions applies to 235, except for idlers orientation that is different. Smooth to the front and toothed to the back on the 235)
+(The below animation is from Vz330. Same instructions applies to Vz150 and 235, except for idlers orientation that is different. Smooth to the front and toothed to the back on the 150 and 235)
 ![Y gantry aluminum v7](https://user-images.githubusercontent.com/37383368/137658941-ec4aa107-41c0-4470-adfa-1b0e90ed75c5.gif)
 
 
