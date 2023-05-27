@@ -6,7 +6,9 @@ The Vz-235 is a smaller sized VzBoT with a bed print size of 235 x 235 x 240 mm 
 
 You can find the complete web model without CAD-Software here: 
 - [Printed Vz-235](https://a360.co/3OvcNKD)
-- [CNC Full MEllow kit](https://a360.co/3Zi1SXN)  https://s.click.aliexpress.com/e/_DldJGNB
+- [CNC Full MEllow kit](https://a360.co/3Zi1SXN) 
+
+# Buy the full printer kit here: https://s.click.aliexpress.com/e/_DldJGNB
 
 
 The AWD version has been proven to be great for high speed printing without loss of quality!
