@@ -10,9 +10,3 @@
 ![image](https://user-images.githubusercontent.com/37383368/229196997-fc60f72e-347a-4394-acd4-ffa87696b913.png)
 
 
-
-
-
-- CPAP
-<img width="964" alt="image" src="https://user-images.githubusercontent.com/37383368/210031622-09749b48-08df-4b7d-8248-3eb55e4c368b.png">
-
