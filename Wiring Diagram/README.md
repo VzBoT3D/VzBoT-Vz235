@@ -8,5 +8,7 @@
 - Super8 Std Klipper info: https://mellow.klipper.cn/#/board/fly_super8/
 - Super8 Pro Klipper info: https://mellow.klipper.cn/#/board/fly_super8_pro/
 ![image](https://user-images.githubusercontent.com/37383368/229196997-fc60f72e-347a-4394-acd4-ffa87696b913.png)
+![image](https://github.com/VzBoT3D/VzBoT-Vz235/assets/37383368/be8521fd-9051-48a3-b6c2-20a3521ebea9)
+
 
 
