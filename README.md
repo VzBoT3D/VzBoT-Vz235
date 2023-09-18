@@ -1,6 +1,6 @@
 # VzBoT-Vz235
 
-The Vz-235 is a smaller sized VzBoT with a bed print size of 235 x 235 x 200 mm and an optional AWD setup, for which we named the Kinematics "QuadXY" (also known as AWD).
+The Vz-235 is a smaller sized VzBoT with a bed print size of 235 x 235 and a Z of 200-225 mm depending on your hotend length and an optional AWD setup, for which we named the Kinematics "QuadXY" (also known as AWD).
 
 You can find the complete web model without CAD-Software here:
 
