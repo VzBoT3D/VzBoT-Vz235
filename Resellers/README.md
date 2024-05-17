@@ -7,7 +7,6 @@ List of resellers (this will be updated as we will deploy elwhere)
 - Danemark: [3DO.eu](https://3do.eu/) 
 - Germany: [CR-3D.de](https://www.cr3d.de/)
 - Germany: [Meltbro](https://meltbro.de)
-- F3D Racing: [F3D Racing](https://f3d-racing-fdm.myshopify.com/)
 - Poland: [X3Dshop](https://x3dshop.com/)
 
 
