@@ -1,3 +1,5 @@
+For the back motor mounts the old printed parts can be reused.
+
 All the hardware needed for the Front and Back motor mounts.
 
 | Quantity | Part                         | Image             | comment  | Links  |
